@@ -49,7 +49,7 @@ namespace Summative_4
             //sleigh and chimney
             for (int i = 0; i < 423; i++)
              {
-                fg.Clear(Color.Black);
+                fg.Clear(Color.Black);  
                 fg.DrawLine(chimneyPen, 0, 260, 355, 260);
                 fg.DrawLine(chimneyPen, 350, 260, 350, 177);
                 fg.DrawLine(chimneyPen, 345, 177, 500, 177);
