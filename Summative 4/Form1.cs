@@ -24,7 +24,7 @@ namespace Summative_4
         }
 
         private void startButton_Click(object sender, EventArgs e)
-        {
+        { 
             Pen chimneyPen = new Pen(Color.Red, 10);
             SolidBrush giftBrush = new SolidBrush(Color.Snow);
             SolidBrush flameBrush = new SolidBrush(Color.Orange);
